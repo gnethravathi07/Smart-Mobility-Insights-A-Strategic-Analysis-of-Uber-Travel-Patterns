@@ -1,13 +1,13 @@
 # 🚗 Smart Mobility Insights: A Strategic Analysis of Uber Travel Patterns
 
-## 📌 Project Overview
+## 📌 Project Overview:
 This project analyzes Uber trip data to uncover patterns in urban travel, booking behavior, and operational efficiency. Through the combined use of **SQL**, **Power BI**, and **Python**, it delivers insights into fare distribution, distance traveled, time-based demand, and location trends.
 
 This case study supports data-driven decisions for smarter ride allocation, demand forecasting, and pricing strategies in ride-hailing platforms.
 
 ---
 
-## 🎯 Objectives
+## 🎯 Objectives:
 - Track core ride metrics: bookings, distances, fare totals, and duration
 - Understand travel demand by hour, weekday, and day/night splits
 - Identify top pickup and drop-off zones for different cities
@@ -16,13 +16,13 @@ This case study supports data-driven decisions for smarter ride allocation, dema
 
 ---
 
-## 🗂️ Dataset Description
+## 🗂️ Dataset Description:
 1. **Uber Trip Details** – Ride-level info including timestamps, fare, surge, distance, vehicle, payment type, and location IDs  
 2. **Location Table** – Maps `LocationID` to `Location` and `City`
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies:
 | Tool        | Role in Project |
 |-------------|------------------|
 | **SQL (MySQL)** | Created relational schema, loaded data, and extracted metrics such as total bookings, trip distance, fare value, and time-based trends. |
@@ -31,7 +31,7 @@ This case study supports data-driven decisions for smarter ride allocation, dema
 
 ---
 
-## 📊 Key Metrics Calculated
+## 📊 Key Metrics Calculated:
 | KPI                        | Description |
 |----------------------------|-------------|
 | **Total Bookings**         | Number of unique trip IDs (`Trip_id`) |
