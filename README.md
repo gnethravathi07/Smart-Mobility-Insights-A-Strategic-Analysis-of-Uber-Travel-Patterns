@@ -39,11 +39,17 @@ This Project study supports data-driven decisions for smarter ride allocation, d
 
 ### 📊 Power BI Dashboards:
 - **Dashboard 1: Overview**  
-  ▸ KPIs, fare value, distance, vehicle filters  
+  ▸ KPIs, fare value, distance, vehicle filters
+  <img width="1152" height="758" alt="image" src="https://github.com/user-attachments/assets/7d1fa15b-1a83-45ea-ada0-b805a9c5e459" />
+
 - **Dashboard 2: Time Analysis**  
-  ▸ Hourly trends, 10-minute intervals, weekday demand  
+  ▸ Hourly trends, 10-minute intervals, weekday demand
+  <img width="1087" height="666" alt="image" src="https://github.com/user-attachments/assets/4ba34252-b3ec-42a8-9f06-6366144e14ce" />
+ 
 - **Dashboard 3: Location Analysis**  
   ▸ Top pickup/drop-off locations, farthest trip, vehicle preference by city
+  <img width="1204" height="731" alt="image" src="https://github.com/user-attachments/assets/8482a209-d0e6-4a56-9ad5-30bcfe27db2e" />
+
 
 ### 🐍 Python Visuals:
 - Top 5 Pickup & Drop-off Locations → `barh()` with annotations  
