@@ -21,7 +21,7 @@ This Project study supports data-driven decisions for smarter ride allocation, d
 | Tool        | Role in Project |
 |-------------|------------------|
 | **SQL (MySQL)** | Created relational schema, loaded data, and extracted metrics such as total bookings, trip distance, fare value, and time-based trends. |
-| **Power BI** | Designed multi-page interactive dashboards with slicers, DAX measures, bookmarks, and custom visuals (heatmaps, matrix views, KPIs). |
+| **Power BI** | Designed multi-page interactive dashboards with slicers, DAX measures,Drill trough bookmarks, and custom visuals (heatmaps, matrix views, KPIs). |
 | **Python (Pandas + Matplotlib)** | Merged data, calculated KPIs, and visualized top locations and vehicle demand using custom-styled bar charts. |
 
 ## 📊 Key Metrics Calculated
