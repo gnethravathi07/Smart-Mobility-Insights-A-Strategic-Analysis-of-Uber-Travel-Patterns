@@ -5,22 +5,22 @@ This project analyzes Uber trip data to uncover patterns in urban travel, bookin
 
 This case study supports data-driven decisions for smarter ride allocation, demand forecasting, and pricing strategies in ride-hailing platforms.
 
----
+
 
 ## 🎯 Objectives:
+
 - Track core ride metrics: bookings, distances, fare totals, and duration
 - Understand travel demand by hour, weekday, and day/night splits
 - Identify top pickup and drop-off zones for different cities
 - Explore user behavior by vehicle and payment type
 - Build visual dashboards and custom Python charts for stakeholder insights
 
----
+
 
 ## 🗂️ Dataset Description:
 1. **Uber Trip Details** – Ride-level info including timestamps, fare, surge, distance, vehicle, payment type, and location IDs  
 2. **Location Table** – Maps `LocationID` to `Location` and `City`
 
----
 
 ## 🛠️ Tools & Technologies:
 | Tool        | Role in Project |
@@ -29,7 +29,7 @@ This case study supports data-driven decisions for smarter ride allocation, dema
 | **Power BI** | Designed multi-page interactive dashboards with slicers, DAX measures, bookmarks, and custom visuals (heatmaps, matrix views, KPIs). |
 | **Python (Pandas + Matplotlib)** | Merged data, calculated KPIs, and visualized top locations and vehicle demand using custom-styled bar charts. |
 
----
+
 
 ## 📊 Key Metrics Calculated:
 | KPI                        | Description |
@@ -41,7 +41,7 @@ This case study supports data-driven decisions for smarter ride allocation, dema
 | **Average Trip Distance**  | Mean of `trip_distance` |
 | **Average Trip Duration**  | Calculated using pickup and drop-off timestamps |
 
----
+
 
 ## 📈 Dashboards & Python Visuals
 ### 📊 Power BI Dashboards:
@@ -58,7 +58,7 @@ This case study supports data-driven decisions for smarter ride allocation, dema
 - Average Trip Duration in Minutes  
 - Custom styling: axis turned off, clean labels, inverted bar order for clarity
 
----
+
 
 ## 🔍 Insights 
 - 🔹 Most rides occur in the evening hours, with demand peaking post 6 PM  
@@ -68,7 +68,7 @@ This case study supports data-driven decisions for smarter ride allocation, dema
 - 🔹 Farthest trips are mostly intercity, revealing long-distance travel use cases  
 - 🔹 Weekends have higher booking volumes, especially Saturday nights
 
----
+
 
 ## ✅ Recommendations
 - Dynamic pricing should be focused on evenings and weekends to capture high-value demand  
