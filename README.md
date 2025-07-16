@@ -6,6 +6,8 @@ This project analyzes Uber trip data to uncover patterns in urban travel, bookin
 
 This case study supports data-driven decisions for smarter ride allocation, demand forecasting, and pricing strategies in ride-hailing platforms.
 
+---
+
 ## 🎯 Objectives
 
 - Track core ride metrics: bookings, distances, fare totals, and duration
