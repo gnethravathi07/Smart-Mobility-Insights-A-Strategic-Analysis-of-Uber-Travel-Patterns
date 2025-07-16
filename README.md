@@ -1,7 +1,6 @@
 # 🚗 Smart Mobility Insights: A Strategic Analysis of Uber Travel Patterns
 
 ## 📌 Project Overview
-
 This project analyzes Uber trip data to uncover patterns in urban travel, booking behavior, and operational efficiency. Through the combined use of **SQL**, **Power BI**, and **Python**, it delivers insights into fare distribution, distance traveled, time-based demand, and location trends.
 
 This case study supports data-driven decisions for smarter ride allocation, demand forecasting, and pricing strategies in ride-hailing platforms.
@@ -9,7 +8,6 @@ This case study supports data-driven decisions for smarter ride allocation, dema
 ---
 
 ## 🎯 Objectives
-
 - Track core ride metrics: bookings, distances, fare totals, and duration
 - Understand travel demand by hour, weekday, and day/night splits
 - Identify top pickup and drop-off zones for different cities
@@ -19,14 +17,12 @@ This case study supports data-driven decisions for smarter ride allocation, dema
 ---
 
 ## 🗂️ Dataset Description
-
 1. **Uber Trip Details** – Ride-level info including timestamps, fare, surge, distance, vehicle, payment type, and location IDs  
 2. **Location Table** – Maps `LocationID` to `Location` and `City`
 
 ---
 
 ## 🛠️ Tools & Technologies
-
 | Tool        | Role in Project |
 |-------------|------------------|
 | **SQL (MySQL)** | Created relational schema, loaded data, and extracted metrics such as total bookings, trip distance, fare value, and time-based trends. |
@@ -36,7 +32,6 @@ This case study supports data-driven decisions for smarter ride allocation, dema
 ---
 
 ## 📊 Key Metrics Calculated
-
 | KPI                        | Description |
 |----------------------------|-------------|
 | **Total Bookings**         | Number of unique trip IDs (`Trip_id`) |
@@ -49,7 +44,6 @@ This case study supports data-driven decisions for smarter ride allocation, dema
 ---
 
 ## 📈 Dashboards & Python Visuals
-
 ### 📊 Power BI Dashboards:
 - **Dashboard 1: Overview**  
   ▸ KPIs, fare value, distance, vehicle filters  
@@ -67,7 +61,6 @@ This case study supports data-driven decisions for smarter ride allocation, dema
 ---
 
 ## 🔍 Insights 
-
 - 🔹 Most rides occur in the evening hours, with demand peaking post 6 PM  
 - 🔹 Wallet and card are dominant payment modes across all cities  
 - 🔹 Top 5 pickup/drop-off locations show consistent demand in high-density zones  
@@ -78,7 +71,6 @@ This case study supports data-driven decisions for smarter ride allocation, dema
 ---
 
 ## ✅ Recommendations
-
 - Dynamic pricing should be focused on evenings and weekends to capture high-value demand  
 - Driver allocation can be improved by real-time monitoring of top pickup locations  
 - Premium vehicle availability should be increased in metros with high demand  
