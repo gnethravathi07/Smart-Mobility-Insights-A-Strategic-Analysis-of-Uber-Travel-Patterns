@@ -35,3 +35,47 @@ This Project study supports data-driven decisions for smarter ride allocation, d
 | **Average Trip Distance** | Mean of `trip_distance`                         |
 | **Average Trip Duration** | Calculated using pickup and drop-off timestamps |
 
+📈 Dashboards & Python Visuals
+📊 Power BI Dashboards:
+Dashboard 1: Overview
+▸ KPIs, fare value, distance, vehicle filters
+
+Dashboard 2: Time Analysis
+▸ Hourly trends, 10-minute intervals, weekday demand
+
+Dashboard 3: Location Analysis
+▸ Top pickup/drop-off locations, farthest trip, vehicle preference by city
+
+🐍 Python Visuals (from your notebook):
+Top 5 Pickup & Drop-off Locations → barh() with annotations
+
+Most Preferred City per Vehicle → groupby with merged location data
+
+Average Trip Duration in Minutes
+
+Custom styling: axis turned off, clean labels, inverted bar order for clarity
+
+🔍 Insights Discovered
+🔹 Most rides occur in the evening hours, with demand peaking post 6 PM
+
+🔹 Wallet and card are dominant payment modes across all cities
+
+🔹 Top 5 pickup/drop-off locations show consistent demand in high-density zones
+
+🔹 Premium vehicles are highly preferred in cities like Bangalore and Delhi
+
+🔹 Farthest trips are mostly intercity, revealing long-distance travel use cases
+
+🔹 Weekends have higher booking volumes, especially Saturday nights
+
+✅ Recommendations
+Dynamic pricing should be focused on evenings and weekends to capture high-value demand
+
+Driver allocation can be improved by real-time monitoring of top pickup locations
+
+Premium vehicle availability should be increased in metros with high demand
+
+Cashless payments are preferred; Uber could consider phasing out cash options in key cities
+
+Introduce route-based marketing offers based on most frequent trip zones
+
