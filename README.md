@@ -24,7 +24,7 @@ This Project study supports data-driven decisions for smarter ride allocation, d
 | **Power BI** | Designed multi-page interactive dashboards with slicers, DAX measures, bookmarks, and custom visuals (heatmaps, matrix views, KPIs). |
 | **Python (Pandas + Matplotlib)** | Merged data, calculated KPIs, and visualized top locations and vehicle demand using custom-styled bar charts. |
 
-📊 Key Metrics Calculated
+## 📊 Key Metrics Calculated
 
 | KPI                       | Value                                           |
 | ------------------------- | ----------------------------------------------- |
