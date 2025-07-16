@@ -70,5 +70,5 @@ This Project study supports data-driven decisions for smarter ride allocation, d
 - Driver allocation can be improved by real-time monitoring of top pickup locations  
 - Premium vehicle availability should be increased in metros with high demand  
 - Cashless payments are preferred; Uber could consider phasing out cash options in key cities  
-- Introduce route-based marketing offers based on most frequent trip zones
+- Introduce route-based marketing offers based on most frequent trip zones.
 
