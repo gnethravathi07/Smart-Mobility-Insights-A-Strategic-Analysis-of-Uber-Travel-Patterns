@@ -37,7 +37,7 @@ This case study supports data-driven decisions for smarter ride allocation, dema
 
 ## 📊 Key Metrics Calculated
 
-| KPI                         | Description |
+| KPI                        | Description |
 |----------------------------|-------------|
 | **Total Bookings**         | Number of unique trip IDs (`Trip_id`) |
 | **Total Booking Value**    | Sum of `fare_amount + surge_fee` |
@@ -66,7 +66,7 @@ This case study supports data-driven decisions for smarter ride allocation, dema
 
 ---
 
-## 🔍 Insights Discovered
+## 🔍 Insights 
 
 - 🔹 Most rides occur in the evening hours, with demand peaking post 6 PM  
 - 🔹 Wallet and card are dominant payment modes across all cities  
@@ -85,7 +85,5 @@ This case study supports data-driven decisions for smarter ride allocation, dema
 - Cashless payments are preferred; Uber could consider phasing out cash options in key cities  
 - Introduce route-based marketing offers based on most frequent trip zones
 
----
 
-## 📁 Project Structure
 
